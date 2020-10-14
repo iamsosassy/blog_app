@@ -3,9 +3,12 @@
 }
 
 .main-header {
-    background-image: url("img\water.jpg");
+    background: url('../music.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .header-text-holder {
     text-align: center;
+    color: whitesmoke;
 }
